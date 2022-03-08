@@ -1,16 +1,3 @@
-# driver_app
+# Driver App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It's an app for food delivery that shows the incoming orders and it's details to pick it up by the driver after he choose it and then deliver it with a lot of information about the status of the order and the driver with sign in UI, maps and many other things.
